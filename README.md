@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evanhuang82
 - 👀 I’m interested in lots of things
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on anything about python
 - 📫 How to reach me? Come to Sydney
 
 <!---
